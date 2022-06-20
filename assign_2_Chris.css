@@ -9,7 +9,7 @@ body{
  .container{
     height: 110%;
     width: 90%;
-    margin-left: 80px;
+    margin-left: 70px;
     border-radius: 5ch;
     margin-top: 65px;
     margin-bottom: 65px;
@@ -39,8 +39,8 @@ body{
 .nav-middle ul li a{
     text-decoration: none;
     color: rgb(246, 246, 246);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
 }
 .nav-right ul{
     display: flex;
@@ -77,13 +77,13 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .content .text h2{
-    font-size: 40px;
+    font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
 }
 .content .text p{
     margin-top: 10px;
-    font-size: 25px;
+    font-size: 15px;
     color: gainsboro;
     margin-bottom: 40px;
 }
@@ -111,7 +111,7 @@ body{
     padding: 15px 20px;
     margin-right: 10px;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 20px;
     color: rgba(255, 255, 255, 0.683);
     list-style: none;
 }
